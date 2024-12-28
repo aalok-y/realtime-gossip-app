@@ -28,7 +28,7 @@ To create new Room (A user can create multple Rooms)
     name: "galaxy",                     // Name of the Room
     visibility: "public" or "private",  // Whether room is public or private
     pass: "anyPassword",                // Set password if room is private else "" empty string
-  };
+  }
 }
 ```
 
